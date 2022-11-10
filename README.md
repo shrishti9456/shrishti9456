@@ -51,7 +51,7 @@ Here are some ideas to get you started:
     <a href="#" target="blank"><img align="center"
             src="https://cdn.iconscout.com/icon/free/png-64/facebook-2038471-1718509.png" alt="facebook" height="40"
             width="40" /></a>
-    <a href="#" target="blank"><img align="center"
+    <a href="https://www.linkedin.com/in/shrishti-bandejiya/" target="blank"><img align="center"
             src="https://cdn.iconscout.com/icon/free/png-64/linkedin-208-916919.png" alt="linkedin" height="40"
             width="40" /></a>
     <a href="#" target="blank"><img align="center"
